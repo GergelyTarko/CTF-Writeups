@@ -1,1 +1,0 @@
-I started to write writeups just recently, so either I pwned this box before I started documenting my progress or I did not have the time to write the report because of my current studies.
