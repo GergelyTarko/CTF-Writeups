@@ -13,7 +13,7 @@
 * [Passage :x:](./HackTheBox/Machines/Passage)
 * [Ready :lock: :x:](./HackTheBox/Machines/Ready)
 * [Resolute :x:](./HackTheBox/Machines/Resolute)
-* [ScriptKiddie :lock: :x:](./HackTheBox/Machines/ScriptKiddie)
+* [ScriptKiddie :lock:](./HackTheBox/Machines/ScriptKiddie)
 * [Spectra :lock:](./HackTheBox/Machines/Spectra)
 * [Time :lock: :x:](./HackTheBox/Machines/Time)
 
